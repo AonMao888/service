@@ -1,1 +1,1 @@
-[{"title":"First","des":"description for first book","thumbimg":"../photos/sao kun mao book.jpg","link",""}]
+[{"title":"First","des":"description for first book","thumbimg":"../photos/sao kun mao book.jpg","link":""}]
