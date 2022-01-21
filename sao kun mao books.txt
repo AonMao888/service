@@ -1,1 +1,1 @@
-[{"title":"First","des":"description for first book","thumbimg":"../photos/sao kun mao book.jpg","link":"www.google.com"},{"title":"Second","des":"description for second book","thumbimg":"../photos/sao kun mao book.jpg","link":"www.google.com"}]
+[{"title":"ၶိူဝ်းတႆးလႄႈသိူဝ်ၽိူၵ်ႇ","des":"ပပ်ႉတႃႇႁဵၼ်းပိုၼ်းၶိူဝ်းတႆးႁဝ်းလႄႈသိူဝ်ၽိူၵ်ႇ","thumbimg":"../photos/sao kun mao book.jpg","link":"../books/ၶိူဝ်းတႆး လႄႈ သိူဝ်ၽိူၵ်ႇ.pdf"},{"title":"Second","des":"description for second book","thumbimg":"../photos/sao kun mao book.jpg","link":"www.google.com"}]
