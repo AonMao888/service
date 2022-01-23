@@ -1,3 +1,4 @@
 [
-{"title":"လၢႆး","des":"ၶူးသြႃႉၵျေႃႇထေးသၢပ်းလႅင်းၼေ လၢႆးပွင်ႇဝႃႈသင်","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/AyQifyqlbjo"}
+{"title":"လၢႆး","des":"ၶူးသြႃႉၵျေႃႇထေးသၢပ်းလႅင်းၼေ လၢႆးပွင်ႇဝႃႈသင်","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/AyQifyqlbjo"},
+{"title":"ယွၼ်ႉသင် လၢႆးတႆးဢမ်ႇၽႄႈတိူဝ်းၼမ်မႃး","des":"","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/C9NryQ36zbg"}
 ]
