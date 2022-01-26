@@ -2,5 +2,5 @@
 {"title":"လၢႆး","des":"ၶူးသြႃႉၵျေႃႇထေးသၢပ်းလႅင်းၼေ လၢႆးပွင်ႇဝႃႈသင်","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/AyQifyqlbjo"},
 {"title":"ယွၼ်ႉသင် လၢႆးတႆးဢမ်ႇၽႄႈတိူဝ်းၼမ်မႃး","des":"","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/C9NryQ36zbg"},
 {"title":"လၢႆးတႆး လၢႆးတႅၼ်း","des":"ၶူးသြႃႉၵျေႃႇထေးလႄႈ ၸၢႆးၸၢမ်ႇႁိူင်း ၼႄႁၢင်ႈ","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/msoonf3-ukg"},
-{"title":"ငဝ်ႈၶၢမ်ႇပိုၼ်ႉ","des":"လုၵ်ႈႁဵၼ်းၶူးလၢႆးၸဝ်ႈၶုၼ်မၢဝ်း ၵႃႈၼႄပိုၼ်ႉၶၢမ်ႇလၢႆးတႆး(108)လွၵ်း","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/Otwb8HIZUlk"}
+{"title":"ငဝ်ႈၶၢမ်ႇပိုၼ်ႉ","des":"လုၵ်ႈႁဵၼ်းၶူးလၢႆးၸဝ်ႈၶုၼ်မၢဝ်း(ၼမ်ႉၶမ်း) ၵႃႈၼႄပိုၼ်ႉၶၢမ်ႇလၢႆးတႆး(108)လွၵ်း","qrcode":"https://jaokunmao.netlify.app/photos/qrcode.png","video":"https://www.youtube.com/embed/Otwb8HIZUlk"}
 ]
