@@ -1,3 +1,4 @@
 [
-{"title":"Bubble shooter","des":"Tap and shoot to destroy the same color balls","icon":"https://pm.gamedistribution.com/@creative/27673bc45d2e4b27b7cd24e422f7c257/0.3.1/150x150.jpeg","thumb":"https://shorturl.at/pMU04","link":"https://html5.gamedistribution.com/27673bc45d2e4b27b7cd24e422f7c257/"}
+{"title":" Halloween Bubble shooter","des":"Tap and shoot to destroy the same color balls","icon":"https://shorturl.at/fgpFX","thumb":"https://www.cbc.ca/kids/images/halloweenbubble_start.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/halloween-bubbles/index.html"},
+{"title":"Imposter","des":"Tap and shoot to destroy the same color balls","icon":"https://shorturl.at/xyTY2","thumb":"https://cdn.mos.cms.futurecdn.net/jqhD2whoyi6hCmgifQcp7T.jpg","link":"https://html5.gamedistribution.com/9abe6af0fbb440b98a3e24bf7fb0636a/"}
 ]
