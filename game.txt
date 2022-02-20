@@ -2,5 +2,5 @@
 {"title":" Halloween Bubble shooter","des":"Tap and shoot to destroy the same color balls","icon":"https://www.mobilegamingarcade.com/assets/uploads/banners/fun-games/halloween-bubble-shooter-600x600.jpg","thumb":"https://www.cbc.ca/kids/images/halloweenbubble_start.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/halloween-bubbles/index.html"},
 {"title":"Baby cat adventure","des":"","icon":"https://www.yiv.com/thumb/Baby-Cat-Adventure.jpg","thumb":"https://www.cbc.ca/kids/images/babycat_start.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/baby_cat_adventures/index.html"},
 {"title":"DOMINO Block","des":"Play domino with friends, family or anyone funny","icon":"https://bit.ly/3GW17JH","thumb":"https://www.cbc.ca/kids/images/domino_play.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/master_board/domino/index.html"},
-{"title":"Tai 2048","des":"Swipe and merge to get 2048","icon":"https://mmao.netlify.app/img/2048.png","thumb":"https://shorturl.at/fFIR7","link":"https://tai2048.netlify.app"}
+{"title":"Tai 2048","des":"Swipe and merge to get 2048","icon":"https://mmao.netlify.app/img/2048.png","thumb":"https://tinyurl.com/tai2048","link":"https://tai2048.netlify.app"}
 ]
