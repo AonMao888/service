@@ -4,5 +4,6 @@
 {"title":"DOMINO Block","des":"Play domino with friends, family or anyone funny","icon":"https://bit.ly/3GW17JH","thumb":"https://www.cbc.ca/kids/images/domino_play.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/master_board/domino/index.html"},
 {"title":"Build Tower","des":"Swipe and merge to get 2048","icon":"https://mmao.netlify.app/img/kuphein.png","thumb":"https://tai2048.netlify.app/meta/kup.png","link":"https://kuphain.netlify.app"},
 {"title":"Tai 2048","des":"Swipe and merge to get 2048","icon":"https://mmao.netlify.app/img/2048.png","thumb":"https://tai2048.netlify.app/meta/21.png","link":"https://tai2048.netlify.app"},
-{"title":"Valentine Shooter","des":"Shoot heart ball and get win","icon":"https://i.pinimg.com/originals/c4/85/1b/c4851bcddc8ff9653c10e25d819ce029.png","thumb":"https://www.cbc.ca/kids/images/valentineshooter_play.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/valentine-shooter/index.html"}
+{"title":"Valentine Shooter","des":"Shoot heart ball and get win","icon":"https://i.pinimg.com/originals/c4/85/1b/c4851bcddc8ff9653c10e25d819ce029.png","thumb":"https://www.cbc.ca/kids/images/valentineshooter_play.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/valentine-shooter/index.html"},
+{"title":"4 Colours","des":"No description","icon":"https://gameforge.com/de-DE/littlegames/includes/images/games/10354_5eb3f0ee0fb8d.jpg","thumb":"https://www.cbc.ca/kids/images/fourcolours_play.jpg","link":"https://www.cbc.ca/kidscbc2/content/games/four-colours/index.html"}
 ]
