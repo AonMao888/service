@@ -1,7 +1,7 @@
 [
-{"id":"1","img":"https://www.day-today.co.uk/wp-content/uploads/2019/02/advertise-here-banner.jpg","link":"https://www.day-today.co.uk/wp-content/uploads/2019/02/advertise-here-banner.jpg"},
-{"id":"2","img":"http://ruwais.info/wp-content/uploads/2014/03/ad_banner_general.jpg","link":"http://ruwais.info/wp-content/uploads/2014/03/ad_banner_general.jpg"},
-{"id":"3","img":"https://www.ochch.org/center-for-community-based-care/wp-content/uploads/sites/5/2018/08/CCBC_AdvertiseHere_Banner.png","link":"https://www.ochch.org/center-for-community-based-care/wp-content/uploads/sites/5/2018/08/CCBC_AdvertiseHere_Banner.png"},
-{"id":"4","img":"https://3c5239fcccdc41677a03-1135555c8dfc8b32dc5b4bc9765d8ae5.ssl.cf1.rackcdn.com/Adver--Banners--150x750px-RIOT.jpg","link":"https://3c5239fcccdc41677a03-1135555c8dfc8b32dc5b4bc9765d8ae5.ssl.cf1.rackcdn.com/Adver--Banners--150x750px-RIOT.jpg"},
-{"id":"5","img":"https://www.bloggingways.net/wp-content/uploads/2014/07/AdvertiseHere.jpg","link":"https://www.bloggingways.net/wp-content/uploads/2014/07/AdvertiseHere.jpg"}
+{"img":"https://www.day-today.co.uk/wp-content/uploads/2019/02/advertise-here-banner.jpg","link":"https://www.facebook.com/aonmao2324/"},
+{"img":"http://ruwais.info/wp-content/uploads/2014/03/ad_banner_general.jpg","link":"https://www.facebook.com/aonmao2324/"},
+{"img":"https://www.ochch.org/center-for-community-based-care/wp-content/uploads/sites/5/2018/08/CCBC_AdvertiseHere_Banner.png","link":"https://www.facebook.com/aonmao2324/"},
+{"img":"https://3c5239fcccdc41677a03-1135555c8dfc8b32dc5b4bc9765d8ae5.ssl.cf1.rackcdn.com/Adver--Banners--150x750px-RIOT.jpg","link":"https://www.facebook.com/aonmao2324/"},
+{"img":"https://www.bloggingways.net/wp-content/uploads/2014/07/AdvertiseHere.jpg","link":"https://www.facebook.com/aonmao2324/"}
 ]
