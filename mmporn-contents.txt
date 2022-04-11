@@ -1,2 +1,0 @@
-[{"img":"https://www.elegomall.com/upload/blog/old/new.png","icon":"https://earncashto.com/wp-content/uploads/2021/06/495-4952535_create-digital-profile-icon-blue-user-profile-icon.png","title":"First","des":"description for first test"},
-{"img":"https://www.elegomall.com/upload/blog/old/new.png","icon":"https://earncashto.com/wp-content/uploads/2021/06/495-4952535_create-digital-profile-icon-blue-user-profile-icon.png","title":"First","des":"description for first test"}]
