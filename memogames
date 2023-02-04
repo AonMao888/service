@@ -1,0 +1,10 @@
+[
+    {
+        "name":"2048",
+        "des":"Play to reach 2048",
+        "icon":"https://mmao.netlify.app/assets/img/2048.png",
+        "background":"https://images.crazygames.com/drop-merge-the-numbers/20220909075354/drop-merge-the-numbers-cover?auto=format%2Ccompress&q=45&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+        "link":"https://tai2048.netlify.app/",
+        "id":"121"
+    }
+]
