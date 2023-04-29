@@ -1,1 +1,0 @@
-[{"title":"ပပ်ႉပိုၼ်းလၢႆးတႆးၸဝ်ႈၶုၼ်မၢဝ်းတေသႂ်ႇၼႂ်းwebယဝ်ႉ","des":"ဢၢၼ်ႇလူပပ်ႉပိုၼ်းတႆးၵူႈလွင်ႈလွင်ႈလႆႈယဝ်ႉ","date":"21 Jan 2022","img":"https://miro.medium.com/max/1024/0*YcGrjQcfzrDkAxAB.jpg"},{"title":"သႂ်ႇၶၢဝ်ႇ","des":"ၵပ်းသိုပ်ႇႁဝ်းၶႃႈသေတၢင်ႇသႂ်ႇၶၢဝ်ႇလႆႈယဝ်ႉၶႃႈ။","date":"20 Jan 2022","img":"https://i.ytimg.com/vi/CDHepMx67Lg/maxresdefault.jpg"}]
