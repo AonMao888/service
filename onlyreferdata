@@ -1,5 +1,10 @@
 {
 "anoun":"Welcome to our Only Refer.",
+"topearner":[
+{"no":"1","name":"Sai Tun","amount":"52000Ks","id":"or5"},
+{"no":"2","name":"Hla Kay","amount":"30000Ks","id":"or12"},
+{"no":"3","name":"Kra Gong","amount":"27000Ks","id":"or8"}
+],
 "slider":[
 {"img":"https://neilpatel.com/wp-content/uploads/2021/02/ExamplesofSuccessfulBannerAdvertising-700x420.jpg","link":"https://neilpatel.com/wp-content/uploads/2021/02/ExamplesofSuccessfulBannerAdvertising-700x420.jpg"},
 {"img":"https://adespresso.com/wp-content/uploads/2020/06/banner-ad-examples-1024x536.jpg","link":"https://adespresso.com/wp-content/uploads/2020/06/banner-ad-examples-1024x536.jpg"},
