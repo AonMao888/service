@@ -1,3 +1,13 @@
 [
-{"id":"or1","name":"Sai Sai","phone":"0912345","pass":"123123","money":"0Ks","level":"1","member":"0","history":[{"amount":"-3000Ks","date":"5.5.2023"}]}
+{"id":"or1","name":"Sai Sai","phone":"0912345","pass":"user1","money":"0Ks","level":"1","member":"0","history":[{"amount":"-3000Ks","date":"5.5.2023"}]},
+{"id":"or2","name":"Kyaw Sein Tun","phone":"0912345","pass":"user2","money":"0Ks","level":"1","member":"0","history":[{"amount":"-3000Ks","date":"5.5.2023"}]},
+{"id":"or3","name":"Aon Mao","phone":"0912345","pass":"user3","money":"17000Ks","level":"2","member":"7","history":[
+{"amount":"+3000Ks","date":"14.5.2023"},
+{"amount":"+3000Ks","date":"13.5.2023"},
+{"amount":"+2000Ks","date":"10.5.2023"},
+{"amount":"+2000Ks","date":"10.5.2023"},
+{"amount":"+2000Ks","date":"6.5.2023"},
+{"amount":"-3000Ks","date":"5.5.2023"}
+]},
+{"id":"or4","name":"Kim Aye","phone":"0912345","pass":"user4","money":"0Ks","level":"1","member":"0","history":[{"amount":"-3000Ks","date":"5.5.2023"}]}
 ]
