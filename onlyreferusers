@@ -7,7 +7,9 @@
 {"amount":"+2000Ks","date":"10.5.2023"},
 {"amount":"+2000Ks","date":"10.5.2023"},
 {"amount":"+2000Ks","date":"6.5.2023"},
-{"amount":"-3000Ks","date":"5.5.2023"}
+{"amount":"+2000Ks","date":"1.5.2023"},
+{"amount":"+2000Ks","date":"28.4.2023"},
+{"amount":"+1000Ks","date":"26.4.2023"}
 ]},
 {"id":"or4","name":"Kim Aye","phone":"093333","pass":"user4","money":"0Ks","level":"1","member":"0","history":[{"amount":"-3000Ks","date":"5.5.2023"}]}
 ]
