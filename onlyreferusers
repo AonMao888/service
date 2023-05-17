@@ -12,5 +12,6 @@
 {"amount":"+1000Ks","date":"26.4.2023"}
 ]},
 {"id":"or4","name":"Kim Aye","phone":"093333","pass":"user4","money":"32500Ks","level":"2","member":"11","history":[{"amount":"-3000Ks","date":"5.5.2023"}]},
-{"id":"or7","name":"Min Khant","phone":"094444","pass":"user5","money":"26500Ks","level":"2","member":"9","history":[{"amount":"-3000Ks","date":"5.5.2023"}]}
+{"id":"or7","name":"Min Khant","phone":"094444","pass":"user5","money":"26500Ks","level":"2","member":"9","history":[{"amount":"-3000Ks","date":"5.5.2023"}]},
+{"id":"or217","name":"shwezinmoe","phone":"09661863419","pass":"jkl888","money":"1000Ks","level":"1","member":"0","history":[{"amount":"+1000Ks","date":"17.5.2023"}]}
 ]
