@@ -1,9 +1,9 @@
 {
-"anoun":"Welcome to our website",
+"anoun":"Welcome all MMao Developers",
 "slider":[
-{"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_210041.png","link":"https://onlyrefer.netlify.app"},
-{"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_211110.png","link":"https://onlyrefer.netlify.app"},
-{"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_212858.png","link":"https://onlyrefer.netlify.app"},
-{"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_213901.png","link":"https://onlyrefer.netlify.app"}
+{"img":"https://static.wixstatic.com/media/3650d9_9c5ce8ebb95948be9d81856729669d92~mv2.jpg/v1/fill/w_360,h_198,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/web%20programming_JPG.jpg","link":"https://mmaodev.netlify.app/"},
+{"img":"https://careerswithstem.com.au/wp-content/uploads/2018/07/web-development-programming-resized.jpg","link":"https://mmaodev.netlify.app/"},
+{"img":"https://scrimba.com/articles/content/images/2022/11/image-1.png","link":"https://mmaodev.netlify.app/"},
+{"img":"https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966","link":"https://mmaodev.netlify.app/"}
 ]
 }
