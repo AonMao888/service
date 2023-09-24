@@ -1,15 +1,14 @@
 {
-"anoun":"Get 1000Ks bonus for every new user before 30.5.2023",
+"anoun":"Get 1000Ks bonus for every new user before 5.11.2023",
 "topearner":[
-{"no":"1","name":"Kyaw Sein Tun","amount":"43000Ks","id":"or2"},
-{"no":"2","name":"Kim Aye","amount":"32500Ks","id":"or4"},
-{"no":"3","name":"Min Khant","amount":"26500Ks","id":"or7"}
+{"no":"1","name":"Thein Myint","amount":"43000Ks","id":"mm2"},
+{"no":"2","name":"Seng Aye","amount":"32500Ks","id":"mm4"},
+{"no":"3","name":"Oo Nay Myo","amount":"26500Ks","id":"mm7"}
 ],
 "slider":[
 {"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_210041.png","link":"https://onlyrefer.netlify.app"},
 {"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_211110.png","link":"https://onlyrefer.netlify.app"},
 {"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_212858.png","link":"https://onlyrefer.netlify.app"},
 {"img":"https://gitlab.com/shan32922/imglist/-/raw/main/20230515_213901.png","link":"https://onlyrefer.netlify.app"}
-],
-"meeting":[{"status":"hide","link":"https://google.com"}]
+]
 }
