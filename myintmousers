@@ -5,14 +5,14 @@
 {"name":"Hla Mg","id":"mm6"},
 {"name":"Sai Tun","id":"mm7"}
 ],"leader":"Myo Min Thein","date":"1.12.2022","history":[
-{"amount":"+3000Ks","date":"29.5.2023"},
-{"amount":"+3000Ks","date":"14.5.2023"},
-{"amount":"+3000Ks","date":"13.5.2023"},
-{"amount":"+2000Ks","date":"10.5.2023"},
-{"amount":"+2000Ks","date":"10.5.2023"},
-{"amount":"+2000Ks","date":"6.5.2023"},
-{"amount":"+2000Ks","date":"1.5.2023"},
-{"amount":"+2000Ks","date":"28.4.2023"},
-{"amount":"+1000Ks","date":"26.4.2023"}
+{"amount":"+3000Ks","date":"29.5.2023","note":"Withdraw money"},
+{"amount":"+3000Ks","date":"14.5.2023","note":"Withdraw money"},
+{"amount":"+3000Ks","date":"13.5.2023","note":"Withdraw money"},
+{"amount":"+2000Ks","date":"10.5.2023","note":"Withdraw money"},
+{"amount":"+2000Ks","date":"10.5.2023","note":"Withdraw money"},
+{"amount":"+2000Ks","date":"6.5.2023","note":"Withdraw money"},
+{"amount":"+2000Ks","date":"1.5.2023","note":"Withdraw money"},
+{"amount":"+2000Ks","date":"28.4.2023","note":"Withdraw money"},
+{"amount":"+1000Ks","date":"26.4.2023","note":"Withdraw money"}
 ]}
 ]
