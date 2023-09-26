@@ -1,5 +1,5 @@
 [
-{"id":"mm3","name":"Aon Mao","phone":"09789891591","pass":"user3","money":"10000Ks","level":"2","member":[
+{"id":"mm3","status":"active","name":"Aon Mao","phone":"09789891591","pass":"user3","money":"10000Ks","level":"2","member":[
 {"name":"Soe Lay","id":"mm4"},
 {"name":"Min Htwe","id":"mm5"},
 {"name":"Hla Mg","id":"mm6"},
@@ -15,15 +15,23 @@
 {"amount":"+500Ks","date":"28.4.2023","note":"Withdraw money"},
 {"amount":"+1000Ks","date":"26.4.2023","note":"Withdraw money"}
 ]},
-{"id":"mm10","name":"Zwe Maung Maung","phone":"09662889410","pass":"Zwemgmg1330","money":"0Ks","level":"1","member":[
+{"id":"mm10","status":"need","name":"Zwe Maung Maung","phone":"09662889410","pass":"Zwemgmg1330","money":"0Ks","level":"1","member":[
 ],"leader":"Aon Mao","date":"26.9.2023","history":[
 
 ]},
-{"id":"mm11","name":"ရွှေညာသူ","phone":"09773824430","pass":"159357","money":"0Ks","level":"1","member":[
+{"id":"mm11","status":"need","name":"ရွှေညာသူ","phone":"09773824430","pass":"159357","money":"0Ks","level":"1","member":[
 ],"leader":"Aon Mao","date":"26.9.2023","history":[
 
 ]},
-{"id":"mm12","name":"Victor Chan Min","phone":"09421062084","pass":"Ch@n5665","money":"0Ks","level":"1","member":[
+{"id":"mm12","status":"need","name":"Victor Chan Min","phone":"09421062084","pass":"Ch@n5665","money":"0Ks","level":"1","member":[
+],"leader":"Zwe Maung Maung","date":"26.9.2023","history":[
+
+]},
+{"id":"mm13","status":"need","name":"William Min","phone":"09975874426","pass":"KoKo123","money":"0Ks","level":"1","member":[
+],"leader":"Aon Mao","date":"26.9.2023","history":[
+
+]},
+{"id":"mm14","status":"need","name":"Roam","phone":"09670360296","pass":"24128112Roam","money":"0Ks","level":"1","member":[
 ],"leader":"Zwe Maung Maung","date":"26.9.2023","history":[
 
 ]}
