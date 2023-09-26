@@ -14,5 +14,9 @@
 {"amount":"-4000Ks","date":"1.5.2023","note":"Withdraw money"},
 {"amount":"+500Ks","date":"28.4.2023","note":"Withdraw money"},
 {"amount":"+1000Ks","date":"26.4.2023","note":"Withdraw money"}
+]},
+{"id":"mm10","name":"Zwe Maung Maung","phone":"09662889410","pass":"Zwemgmg1330","money":"0Ks","level":"1","member":[
+],"leader":"Aon Mao","date":"26.9.2023","history":[
+{"amount":"+3000Ks","date":"29.5.2023","note":"Withdraw money"}
 ]}
 ]
