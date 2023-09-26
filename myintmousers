@@ -62,5 +62,9 @@
 {"id":"mm20","status":"active","name":"Saw Kyi Phyu","phone":"09660878721","pass":"nnn238","money":"1500Ks","level":"1","member":[
 ],"leader":"Zaw Htet Ko","date":"26.9.2023","history":[
 {"amount":"+1500Ks","date":"26.9.2023","note":"Register amount"}
+]},
+{"id":"mm21","status":"need","name":"Ama Yar","phone":"09795679364","pass":"100100","money":"0Ks","level":"1","member":[
+],"leader":"Zaw Htet Ko","date":"26.9.2023","history":[
+
 ]}
 ]
