@@ -15,10 +15,11 @@
 {"amount":"+500Ks","date":"28.4.2023","note":"Withdraw money"},
 {"amount":"+1000Ks","date":"26.4.2023","note":"Withdraw money"}
 ]},
-{"id":"mm10","status":"need","name":"Zwe Maung Maung","phone":"09662889410","pass":"Zwemgmg1330","money":"1500Ks","level":"2","member":[
+{"id":"mm10","status":"need","name":"Zwe Maung Maung","phone":"09662889410","pass":"Zwemgmg1330","money":"3000Ks","level":"2","member":[
 {"name":"Zaw Htet Ko","id":"mm16"},
 {"name":"May Hnin","id":"mm17"},
-{"name":"Khun B Fx","id":"mm18"}
+{"name":"Khun B Fx","id":"mm18"},
+{"name":"Zayyar Naing","id":"mm22"}
 ],"leader":"Aon Mao","date":"26.9.2023","history":[
 {"amount":"+1500Ks","date":"26.9.2023","note":"By refer a person"}
 ]},
@@ -67,7 +68,7 @@
 ],"leader":"Zaw Htet Ko","date":"26.9.2023","history":[
 
 ]},
-{"id":"mm22","status":"need","name":"Zayyar Naing","phone":"09762648952","pass":"Shine161999","money":"0Ks","level":"1","member":[
+{"id":"mm22","status":"active","name":"Zayyar Naing","phone":"09762648952","pass":"Shine161999","money":"2500Ks","level":"1","member":[
 ],"leader":"Zwe Maung Maung","date":"27.9.2023","history":[
 
 ]}
