@@ -32,8 +32,9 @@
 
 ]},
 {"id":"mm135","status":"active","name":"William Min","phone":"09975874426","pass":"KoKo123","money":"1500Ks","level":"1","member":[
+{"name":"Sithu","id":"mm23"}
 ],"leader":"Aon Mao","date":"26.9.2023","history":[
-
+{"amount":"+1500Ks","date":"29.9.2023","note":"By refer a person"}
 ]},
 {"id":"mm14","status":"need","name":"Roam","phone":"09670360296","pass":"24128112Roam","money":"0Ks","level":"1","member":[
 ],"leader":"Zwe Maung Maung","date":"26.9.2023","history":[
@@ -70,6 +71,10 @@
 ]},
 {"id":"mm22","status":"active","name":"Zayyar Naing","phone":"09762648952","pass":"Shine161999","money":"2500Ks","level":"1","member":[
 ],"leader":"Zwe Maung Maung","date":"27.9.2023","history":[
+
+]},
+{"id":"mm23","status":"need","name":"Sithu","phone":"09254699010","pass":"1561993","money":"0Ks","level":"1","member":[
+],"leader":"William Min","date":"29.9.2023","history":[
 
 ]}
 ]
