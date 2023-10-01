@@ -49,9 +49,9 @@
 ],"leader":"Zwe Maung Maung","date":"26.9.2023","history":[
 {"amount":"+1500Ks","date":"26.9.2023","note":"Refer a member"}
 ]},
-{"id":"mm17","status":"active","name":"May Hnin","phone":"09424959147","pass":"453159","money":"1500Ks","level":"1","member":[
+{"id":"mm17","status":"active","name":"May Hnin","phone":"09424959147","pass":"453159","money":"0Ks","level":"1","member":[
 ],"leader":"Zwe Maung Maung","date":"26.9.2023","history":[
-
+{"amount":"-1500Ks","date":"1.10.2023","note":"Withdraw money"}
 ]},
 {"id":"mm18","status":"active","name":"Khun B Fx","phone":"09770341718","pass":"Tun789@#","money":"0Ks","level":"1","member":[
 ],"leader":"Zwe Maung Maung","date":"26.9.2023","history":[
